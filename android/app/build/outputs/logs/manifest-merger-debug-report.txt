@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0f7cc856572b97aef048c1e43bbe85f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77250cc7daf15755188e0d8cc7e0ca79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/052bfbf92d625eca3dce26a9b7281340/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b9a0b11e68e60ac3ee0b82106eadbd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88094b3e139a179350a5a595f241282e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fad1caf74f7f306d675c7bf04f84840f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bcb9087bd9de975e067e6860345d40d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ecbd3a44894fb3a7603837028e7276fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5a82108e5e5f7747d417c77589d5f917/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a7e52b8b0f036ec9c95386bc9546eefd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9032f485120b8b21fde4a6a0e4b40b46/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e26adea2d04f0044b65916a187930a4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5f4ce03cbe7972fdc970255acf25c221/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/xulei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/14f0295984cea2e55ae5eb8d4c9ef045/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d863b19ce743a1d26c210319f1e35a89/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb89a3724c476d4f0182f15095e0098f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8e0872709fba43edd6ebf09338f5067e/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d248086afa3bb2f4c8daba3f580139fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a5d72ae5851735aa42ff452c6962b69/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5f4ce03cbe7972fdc970255acf25c221/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5f4ce03cbe7972fdc970255acf25c221/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/xulei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/14f0295984cea2e55ae5eb8d4c9ef045/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/xulei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/14f0295984cea2e55ae5eb8d4c9ef045/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/xulei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/c2b16202a13dc59777c6a43d1666cbc5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0f7cc856572b97aef048c1e43bbe85f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0f7cc856572b97aef048c1e43bbe85f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77250cc7daf15755188e0d8cc7e0ca79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/77250cc7daf15755188e0d8cc7e0ca79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/052bfbf92d625eca3dce26a9b7281340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/052bfbf92d625eca3dce26a9b7281340/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b9a0b11e68e60ac3ee0b82106eadbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2b9a0b11e68e60ac3ee0b82106eadbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88094b3e139a179350a5a595f241282e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/88094b3e139a179350a5a595f241282e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fad1caf74f7f306d675c7bf04f84840f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fad1caf74f7f306d675c7bf04f84840f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bcb9087bd9de975e067e6860345d40d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6bcb9087bd9de975e067e6860345d40d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ecbd3a44894fb3a7603837028e7276fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ecbd3a44894fb3a7603837028e7276fe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5a82108e5e5f7747d417c77589d5f917/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/5a82108e5e5f7747d417c77589d5f917/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a7e52b8b0f036ec9c95386bc9546eefd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a7e52b8b0f036ec9c95386bc9546eefd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9032f485120b8b21fde4a6a0e4b40b46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/9032f485120b8b21fde4a6a0e4b40b46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e26adea2d04f0044b65916a187930a4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e26adea2d04f0044b65916a187930a4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5f4ce03cbe7972fdc970255acf25c221/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/xulei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/5f4ce03cbe7972fdc970255acf25c221/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d863b19ce743a1d26c210319f1e35a89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d863b19ce743a1d26c210319f1e35a89/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb89a3724c476d4f0182f15095e0098f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb89a3724c476d4f0182f15095e0098f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8e0872709fba43edd6ebf09338f5067e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/8e0872709fba43edd6ebf09338f5067e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d248086afa3bb2f4c8daba3f580139fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d248086afa3bb2f4c8daba3f580139fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a5d72ae5851735aa42ff452c6962b69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/xulei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7a5d72ae5851735aa42ff452c6962b69/AndroidManifest.xml:20:5-44
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/xulei/Documents/GitHub/wisdomClass/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
