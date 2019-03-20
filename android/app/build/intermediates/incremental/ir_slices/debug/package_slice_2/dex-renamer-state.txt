@@ -1,4 +1,0 @@
-#Mon Dec 17 09:19:01 CST 2018
-base.0=/Users/xulei/Documents/GitHub/wisdomClass/android/app/build/intermediates/transforms/dexMerger/debug/3
-path.0=classes.dex
-renamed.0=classes.dex
